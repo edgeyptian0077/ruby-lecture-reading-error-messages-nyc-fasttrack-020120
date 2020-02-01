@@ -1,1 +1,1 @@
-puts "1 + "is the loneliest number"
+x = 1 + log10
